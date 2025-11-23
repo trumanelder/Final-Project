@@ -18,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "spell_check.cpp",
+              "DocumentMoniker": "C:\\Users\\truma\\OneDrive\\Documents\\Classes\\CSC242\\Week4\\Final-Project\\ElderTrumanAssignment5\\ElderTrumanAssignment5\\spell_check.cpp",
+              "RelativeDocumentMoniker": "ElderTrumanAssignment5\\spell_check.cpp",
+              "ToolTip": "C:\\Users\\truma\\OneDrive\\Documents\\Classes\\CSC242\\Week4\\Final-Project\\ElderTrumanAssignment5\\ElderTrumanAssignment5\\spell_check.cpp",
+              "RelativeToolTip": "ElderTrumanAssignment5\\spell_check.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-23T05:11:04.955Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -31,19 +44,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-23T02:01:44.678Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "spell_check.cpp",
-              "DocumentMoniker": "C:\\Users\\truma\\OneDrive\\Documents\\Classes\\CSC242\\Week4\\Final-Project\\ElderTrumanAssignment5\\ElderTrumanAssignment5\\spell_check.cpp",
-              "RelativeDocumentMoniker": "ElderTrumanAssignment5\\spell_check.cpp",
-              "ToolTip": "C:\\Users\\truma\\OneDrive\\Documents\\Classes\\CSC242\\Week4\\Final-Project\\ElderTrumanAssignment5\\ElderTrumanAssignment5\\spell_check.cpp",
-              "RelativeToolTip": "ElderTrumanAssignment5\\spell_check.cpp",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACsAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-17T18:13:15.238Z",
               "EditorCaption": ""
             }
           ]
