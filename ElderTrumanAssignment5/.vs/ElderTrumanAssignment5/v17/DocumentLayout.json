@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\truma\\OneDrive\\Documents\\Classes\\CSC242\\Week4\\Final-Project\\ElderTrumanAssignment5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{39BAB3F6-DA2C-42B0-8B37-D937CE5744C9}|ElderTrumanAssignment5\\ElderTrumanAssignment5.vcxproj|C:\\Users\\truma\\OneDrive\\Documents\\Classes\\CSC242\\Week4\\Final-Project\\ElderTrumanAssignment5\\ElderTrumanAssignment5\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{39BAB3F6-DA2C-42B0-8B37-D937CE5744C9}|ElderTrumanAssignment5\\ElderTrumanAssignment5.vcxproj|solutionrelative:ElderTrumanAssignment5\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{39BAB3F6-DA2C-42B0-8B37-D937CE5744C9}|ElderTrumanAssignment5\\ElderTrumanAssignment5.vcxproj|C:\\Users\\truma\\OneDrive\\Documents\\Classes\\CSC242\\Week4\\Final-Project\\ElderTrumanAssignment5\\ElderTrumanAssignment5\\cipher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39BAB3F6-DA2C-42B0-8B37-D937CE5744C9}|ElderTrumanAssignment5\\ElderTrumanAssignment5.vcxproj|solutionrelative:ElderTrumanAssignment5\\cipher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39BAB3F6-DA2C-42B0-8B37-D937CE5744C9}|ElderTrumanAssignment5\\ElderTrumanAssignment5.vcxproj|C:\\Users\\truma\\OneDrive\\Documents\\Classes\\CSC242\\Week4\\Final-Project\\ElderTrumanAssignment5\\ElderTrumanAssignment5\\spell_check.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39BAB3F6-DA2C-42B0-8B37-D937CE5744C9}|ElderTrumanAssignment5\\ElderTrumanAssignment5.vcxproj|solutionrelative:ElderTrumanAssignment5\\spell_check.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\truma\\OneDrive\\Documents\\Classes\\CSC242\\Week4\\Final-Project\\ElderTrumanAssignment5\\ElderTrumanAssignment5\\Source.cpp",
-              "RelativeDocumentMoniker": "ElderTrumanAssignment5\\Source.cpp",
-              "ToolTip": "C:\\Users\\truma\\OneDrive\\Documents\\Classes\\CSC242\\Week4\\Final-Project\\ElderTrumanAssignment5\\ElderTrumanAssignment5\\Source.cpp",
-              "RelativeToolTip": "ElderTrumanAssignment5\\Source.cpp",
+              "Title": "cipher.cpp",
+              "DocumentMoniker": "C:\\Users\\truma\\OneDrive\\Documents\\Classes\\CSC242\\Week4\\Final-Project\\ElderTrumanAssignment5\\ElderTrumanAssignment5\\cipher.cpp",
+              "RelativeDocumentMoniker": "ElderTrumanAssignment5\\cipher.cpp",
+              "ToolTip": "C:\\Users\\truma\\OneDrive\\Documents\\Classes\\CSC242\\Week4\\Final-Project\\ElderTrumanAssignment5\\ElderTrumanAssignment5\\cipher.cpp",
+              "RelativeToolTip": "ElderTrumanAssignment5\\cipher.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-23T02:01:44.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "spell_check.cpp",
+              "DocumentMoniker": "C:\\Users\\truma\\OneDrive\\Documents\\Classes\\CSC242\\Week4\\Final-Project\\ElderTrumanAssignment5\\ElderTrumanAssignment5\\spell_check.cpp",
+              "RelativeDocumentMoniker": "ElderTrumanAssignment5\\spell_check.cpp",
+              "ToolTip": "C:\\Users\\truma\\OneDrive\\Documents\\Classes\\CSC242\\Week4\\Final-Project\\ElderTrumanAssignment5\\ElderTrumanAssignment5\\spell_check.cpp",
+              "RelativeToolTip": "ElderTrumanAssignment5\\spell_check.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-17T18:13:15.238Z",
               "EditorCaption": ""
