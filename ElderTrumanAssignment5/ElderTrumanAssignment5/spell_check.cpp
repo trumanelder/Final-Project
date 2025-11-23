@@ -1,3 +1,16 @@
+/* ---------------------------------------------------------------------------
+** I attest that this following code represents my own work and is subject to
+** the plagiarism policy found in the course syllabus.
+**
+** Class: 	CSC 242
+** Assignment: 	5
+** File: 	spell_check.cpp
+** Description: Checks the spelling of words in a text file
+**
+** Author: 	Truman Elder
+** Date: 	22 November 2025
+** -------------------------------------------------------------------------*/
+
 #include <iostream>
 #include <string>
 #include <vector>
